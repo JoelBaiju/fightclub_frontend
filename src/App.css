@@ -1,0 +1,37 @@
+ /* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* 
+background-color: #990000;
+background-image: linear-gradient(147deg, #990000 0%, #ff0000 74%); */
+
+body{
+  /* background-color: #000000; */
+  background-image: linear-gradient(147deg, #000000 0%, #470000 100%);
+  overflow-x: hidden;
+  color: #ffffff; 
+  /* background-image: url('../src/assets/images/wxw2.jpg');
+  background-size: cover;
+  background-blend-mode: darken; */
+} 

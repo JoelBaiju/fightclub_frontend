@@ -1,0 +1,38 @@
+/* 
+.Zlogo{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 2rem;
+}
+.FClogo{
+    height: 5rem;
+    width: 5rem;
+}
+
+
+.comingsoon{
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    padding: 0;
+    margin: 15px;
+}
+p{
+    padding: 0;
+    margin: 1px;
+    font-size: medium;
+}
+button{
+    background-color: transparent;
+    color: white;
+    border: none;
+    width: 8rem;
+    height: 2rem;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+    font-size: medium;
+    font-weight: 400;
+}
+button:hover{
+    
+    background-color: rgb(202, 0, 0);
+} */
